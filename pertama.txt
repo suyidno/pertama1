@@ -1,2 +1,4 @@
 Pertama kali mengetik di Github
 Melakukan Sebuah pemikiran Pemrograman.
+Memilih jenis aplikasi yang akan dikembangkan
+Jenis aplikasi pemrograman
