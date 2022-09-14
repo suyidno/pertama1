@@ -1,0 +1,5 @@
+Rencana pertama
+- PEMBUATAN TABEL
+  + tabel siswa
+  + tabel Orang tua wali
+-PEMBUATAN TAMPILAN
